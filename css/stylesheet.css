@@ -342,6 +342,13 @@ footer p{
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	margin: 0 auto;
+	max-width: 80%;
+}
+
+.sample-img img {
+	max-width: 45%;
+	margin: 0 1%;
 }
 
 .left{
